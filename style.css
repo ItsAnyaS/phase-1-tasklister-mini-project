@@ -34,4 +34,27 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+ 
+}
+
+ul {
+  list-style-type: none;
+}
+
+.red{
+color: red;
+margin: 0;
+box-sizing: border-box;
+}
+
+.yellow{
+  color: #feca57;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.green {
+  color: green;
+  margin: 0;
+  box-sizing: border-box;
 }
